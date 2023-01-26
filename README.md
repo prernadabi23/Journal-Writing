@@ -1,5 +1,8 @@
 # journal
 
+
+![Screenshot_20230126_123808](https://user-images.githubusercontent.com/104578155/214776815-d1d19e99-2f55-47fa-b238-10f83e379c0a.png)
+
 ## Requirements
 
 For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
