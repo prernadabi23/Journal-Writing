@@ -1,5 +1,8 @@
 # journal
 
+A personal diary website named "Journal" saves your data and displays all your data entries. With a simple design and easy-to-use interface, it securely stores your journal entries, keeping them safe.
+
+<br>
 
 ![Screenshot_20230126_123808](https://user-images.githubusercontent.com/104578155/214776815-d1d19e99-2f55-47fa-b238-10f83e379c0a.png)
 
